@@ -1,0 +1,22 @@
+filters:
+  and:
+    - geo.contains(link("netherlands.base"))
+properties:
+  title:
+    displayName: Resource
+  category:
+    displayName: Type
+  period:
+    displayName: Period
+views:
+  - type: table
+    name: Resources
+    order:
+      - icon
+      - title
+      - category
+      - period
+    sort:
+      - property: title
+        direction: ASC
+    cardSize: 260

@@ -1,0 +1,16 @@
+filters:
+  and:
+    - category.contains(link("tools.base|Tools"))
+properties:
+  title:
+    displayName: Resource
+views:
+  - type: table
+    name: Resources
+    order:
+      - icon
+      - title
+    sort:
+      - property: title
+        direction: ASC
+    cardSize: 260

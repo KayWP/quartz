@@ -1,0 +1,25 @@
+filters:
+  and:
+    - category.contains(link("datasets.base|Dataset"))
+properties:
+  title:
+    displayName: Resource
+  category:
+    displayName: Type
+  period:
+    displayName: Period
+  format:
+    displayName: format
+  
+views:
+  - type: table
+    name: Resources
+    order:
+      - icon
+      - title
+      - period
+      - format
+    sort:
+      - property: title
+        direction: ASC
+    cardSize: 260

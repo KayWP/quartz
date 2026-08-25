@@ -43,7 +43,7 @@ Layout components are configured in the `layout` section of `quartz.config.yaml`
 ```yaml title="quartz.config.yaml"
 plugins:
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
