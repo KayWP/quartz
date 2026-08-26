@@ -20,4 +20,4 @@ format: Excel
 license: CC BY-SA 4.0
 url: https://doi.org/10.34894/SAENX2
 ---
-This dataset contains data on non-European ships calling at the port of Makassar during the 18th century.
+This dataset contains data on non-European ships calling at the port of Makassar during the 18th century. The data can also be explored through the [[esta|ESTA-tool]].

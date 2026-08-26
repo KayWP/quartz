@@ -17,4 +17,4 @@ license: CC BY 4.0
 url: https://doi.org/10.34894/FN1DBL
 ---
 A register of place names in Kerala (India), compiled from Dutch maps and
-textual archives from the seventeenth and eighteenth centuries.
+textual archives from the seventeenth and eighteenth centuries. The data (and the nice maps!) can also be explored as a [[necessary-reunions|tool]].

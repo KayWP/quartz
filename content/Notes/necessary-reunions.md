@@ -10,3 +10,4 @@ tags:
 url: https://necessaryreunions.org/
 category: "[[tools.base|Tools]]"
 ---
+A toolkit that provides access to reintegrated data from VOC textual archives and maps of early modern Kerala, using techniques of georeferencing and machine-generated transcriptions. The data is also available as an [[Necessary Reunions dataset|Excel file]]. 

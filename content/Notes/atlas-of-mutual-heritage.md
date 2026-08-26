@@ -13,4 +13,4 @@ tags:
 url: https://www.atlasofmutualheritage.nl/
 category: "[[tools.base|Tools]]"
 ---
-An extensive database of historical images, including maps, floor plans, prints, drawings, and paintings related to the VOC and WIC. It allows you to search for specific trading posts (factories) and see how they were depicted visually over two centuries.
+An extensive database that combines historical images, including maps, floor plans, prints, drawings, and paintings related to the VOC and WIC, with geographical information. It allows you to search for specific trading posts (factories) and see how they were depicted visually over two centuries.

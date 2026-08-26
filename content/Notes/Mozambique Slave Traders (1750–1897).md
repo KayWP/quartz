@@ -17,4 +17,4 @@ format: Excel
 license: CC0-1.0
 url: https://doi.org/10.34894/P1RERM
 ---
-This dataset contains data from José Capela's "Dicionário de Negreiros em Moçambique 1750-1897", detailing slave traders and trade activities in Mozambique.
+This dataset contains data from José Capela's "Dicionário de Negreiros em Moçambique 1750-1897", detailing slave traders and trade activities in Mozambique. The data can also be explored through the [[esta|ESTA-tool]].

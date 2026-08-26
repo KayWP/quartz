@@ -9,6 +9,10 @@ tags:
   - Biographical
   - China
   - GIS
-url: https://cbdb.hsites.harvard.edu/
+url: https://projects.iq.harvard.edu/cbdb
 category: "[[tools.base|Tools]]"
+geo:
+  - "[[asia.base|Asia]]"
+  - "[[china.base|china]]"
 ---
+A biographical database that covers over half a million individuals from Chinese history. It can be explored as an online interface. The data is also available as an [[china-biographical-database-dataset|SQL-database]].

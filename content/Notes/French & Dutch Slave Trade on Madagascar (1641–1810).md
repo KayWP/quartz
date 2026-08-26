@@ -17,4 +17,4 @@ format: Tab-separated values / Excel
 license: CC0-1.0
 url: https://doi.org/10.34894/O8QZVG
 ---
-This dataset documents French and Dutch slave trade activities on Madagascar between 1641 and 1810.
+This dataset documents French and Dutch slave trade activities on Madagascar between 1641 and 1810. The data can also be explored through the [[esta|ESTA-tool]].

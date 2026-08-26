@@ -18,4 +18,4 @@ format: CSV
 license: CC BY-SA 4.0
 url: https://doi.org/10.34894/CBO80N
 ---
-This dataset is an alphabetic enumeration of the former princely states of Indonesia.
+This dataset is an alphabetic enumeration of the former princely states of Indonesia. Its contents are partially included in the [[Early Modern Polities in the Dutch East India Company Archives]] dataset.

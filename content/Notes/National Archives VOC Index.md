@@ -19,4 +19,4 @@ format: Original documents / scans
 license: CC0
 url: https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02
 ---
-Browse the complete VOC archive at the Dutch National Archives.
+Although it might seem basic to some more advanced tools, the complete VOC archive can be browsed at the Dutch National Archives. That digitization is the basis for many of the other datasets and tools that are available. Moreover, all the scans can be accessed in IIIF format!

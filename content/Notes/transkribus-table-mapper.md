@@ -10,3 +10,4 @@ tags:
 url: https://table-to-globalise-mapper.streamlit.app/
 category: "[[tools.base|Tools]]"
 ---
+Map and align Transkribus tables with VOC transcription data. Streamline the process of converting handwritten archival tables into structured digital datasets for analysis.

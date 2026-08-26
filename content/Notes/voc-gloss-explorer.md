@@ -10,6 +10,4 @@ tags:
 url: https://voc-gloss-explorer.streamlit.app/
 category: "[[tools.base|Tools]]"
 ---
-Explore terms and potential explanations from the VOC archives. Navigate
-historical terminology, understand archaic language, and discover
-contextual meanings of Dutch colonial-era vocabulary.
+A tool that has indexed the OBP transcriptions on words that can indicate a 'gloss', an explanation of a word. It helps users explore terms and potential explanations from the VOC archives. The tool makes use of the [[globalise-word2vec-lab|GLOBALISE Word2Vec module]].

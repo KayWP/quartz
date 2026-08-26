@@ -10,7 +10,6 @@ properties:
     displayName: Period
   format:
     displayName: format
-  
 views:
   - type: table
     name: Resources
