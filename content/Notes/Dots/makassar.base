@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("makassar.base"))
+    - geo.contains(link("makassar.base|Makassar"))
 properties:
   title:
     displayName: Resource

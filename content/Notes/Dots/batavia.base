@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("batavia.base"))
+    - geo.contains(link("batavia.base|Batavia"))
 properties:
   title:
     displayName: Resource

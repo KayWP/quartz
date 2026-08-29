@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("japan.base"))
+    - geo.contains(link("japan.base|Japan"))
 properties:
   title:
     displayName: Resource

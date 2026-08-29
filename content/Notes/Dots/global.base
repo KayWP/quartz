@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("global.base"))
+    - geo.contains(link("global.base|Global"))
 properties:
   title:
     displayName: Resource

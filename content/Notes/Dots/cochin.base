@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("cochin.base"))
+    - geo.contains(link("cochin.base|Cochin"))
 properties:
   title:
     displayName: Resource

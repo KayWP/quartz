@@ -4,23 +4,16 @@ title: Welcome to Quartz
 
 ## Welcome to VOCdata.nl
 
-This site brings together data, datasets, and tools related to the VOC (Verenigde Oostindische Compagnie), organized so you can explore, search, and reuse it.
+This site lists together data, datasets, and tools related to the VOC (Verenigde Oostindische Compagnie), organized so you can explore, search, and reuse it.
 
-<div class="card-grid">
+### 📊 Datasets
+[[datasets.base|Browse the available datasets as an alphabetical list]]
 
-<a class="card" href="./datasets.base">
-<div class="card-title">📊 Datasets</div>
-<div class="card-desc">Browse the available datasets.</div>
-</a>
+### 🛠️ Tools
+[[tools.base|Explore tools for working working with the data]]
 
-<a class="card" href="./tools.base">
-<div class="card-title">🛠️ Tools</div>
-<div class="card-desc">Explore tools for working with the data.</div>
-</a>
+### 🏷️ Metadata
+[[metadata-index|Explore the datasets and tools by metadata]], such as geographical scope.
 
-<a class="card" href="./metadata-index">
-<div class="card-title">🏷️ Metadata</div>
-<div class="card-desc">Explore the collection by metadata.</div>
-</a>
-
-</div>
+### 📖 Topic
+[[Topic Index|Explore the data and tools by topic]], such as histories of enslavement or historical population overviews.

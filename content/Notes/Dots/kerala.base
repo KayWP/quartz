@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("kerala.base"))
+    - geo.contains(link("kerala.base|Kerala"))
 properties:
   title:
     displayName: Resource

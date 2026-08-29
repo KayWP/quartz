@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("africa.base"))
+    - geo.contains(link("africa.base|Africa"))
 properties:
   title:
     displayName: Resource

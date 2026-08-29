@@ -1,6 +1,6 @@
 filters:
   and:
-    - geo.contains(link("cape-of-good-hope.base"))
+    - geo.contains(link("cape-of-good-hope.base|Cape of Good Hope"))
 properties:
   title:
     displayName: Resource
