@@ -230,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        By Kay Pepping: https://www.linkedin.com/in/kaypepping/
+        (Github): https://github.com/KayWP
     layout:
       position: footer
       priority: 50

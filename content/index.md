@@ -1,8 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to VOCdata.nl
 ---
-
-## Welcome to VOCdata.nl
 
 This site lists together data, datasets, and tools related to the VOC (Verenigde Oostindische Compagnie), organized so you can explore, search, and reuse it.
 
