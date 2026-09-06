@@ -11,6 +11,13 @@ tags:
 contributors:
   - M. Hids
   - F. Brink
+  - "[[Sterre Berentzen]]"
+  - "[[Tanne van den Berg]]"
+  - "[[Thuy Dung Pham]]"
+  - "[[Brecht Nijman]]"
+  - "[[Leon van Wissen]]"
+  - "[[Matthias van Rossum]]"
+  - "[[Manjusha Kuruppath]]"
 geo:
   - "[[asia.base|Asia]]"
   - "[[europe.base|Europe]]"
