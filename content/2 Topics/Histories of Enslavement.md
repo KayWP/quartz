@@ -26,7 +26,7 @@ The histories of enslavement in the early modern world can be traced through man
 
 ## Transcriptions
 
-- [[TANAP Cape of Good Hope Transcriptions – Orphan Chamber]] — Transcriptions of records from the Orphan Chamber at the Cape of Good Hope.
+- [[TANAP Cape of Good Hope Transcriptions - Orphan Chamber]] — Transcriptions of records from the Orphan Chamber at the Cape of Good Hope.
 - [[globalise-transcription-search|GLOBALISE transcription viewer]] — Search and explore transcriptions from the archives of the Dutch East India Company.
 
 ## Thesauri & terminology
