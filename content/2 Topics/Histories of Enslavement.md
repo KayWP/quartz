@@ -2,8 +2,8 @@ The histories of enslavement in the early modern world can be traced through man
 
 ## Research tools
 
-- [[esta|Exploring Slave Trade in Asia]] — Explore data and networks relating to the Asian slave trade.
-- [[early-modern-colonial-court-records|Resilient Diversity]] — Investigate early modern colonial court records and the people, communities, and forms of diversity they document.
+- [[Exploring Slave Trade in Asia|Exploring Slave Trade in Asia]] — Explore data and networks relating to the Asian slave trade.
+- [[Early Modern Dutch Colonial Court Records|Resilient Diversity]] — Investigate early modern colonial court records and the people, communities, and forms of diversity they document.
 
 ## Datasets
 
@@ -27,8 +27,11 @@ The histories of enslavement in the early modern world can be traced through man
 ## Transcriptions
 
 - [[TANAP Cape of Good Hope Transcriptions - Orphan Chamber]] — Transcriptions of records from the Orphan Chamber at the Cape of Good Hope.
-- [[globalise-transcription-search|GLOBALISE transcription viewer]] — Search and explore transcriptions from the archives of the Dutch East India Company.
+- [[GLOBALISE Transcription Search|GLOBALISE transcription viewer]] — Search and explore transcriptions from the archives of the Dutch East India Company.
 
 ## Thesauri & terminology
 
 - [[Ethnicities, Religious Groups and Castes in the Archives of the Dutch East India Company (1602-1799)]] — A thesaurus for identities and group classifications encountered in VOC archival records
+
+## Other repositories
+The [[More lists of data]] page has multiple interesting lists and repositories of data related to histories of enslavement.

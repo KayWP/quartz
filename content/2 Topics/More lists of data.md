@@ -12,3 +12,5 @@ The [Dataverse](https://dataverse.harvard.edu/dataverse/jsdp) of the Journal of 
 ## Magazine of Early American Databases
 The [MEAD](https://repository.upenn.edu/exhibits/orgunit/mead) collects a large variety of datasets compiled by historians of Early Modern America, all in CSV format.
 
+## The Suriname Time Machine
+The 'Projects' page of the [Suriname Time Machine](https://surinametijdmachine.org/projects) has numerous tools and apps, but if you scroll down it also has a 'Bronnen & Bladwijzers' section with a lot of interesting projects, tools and datasets. The page is in Dutch.

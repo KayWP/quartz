@@ -22,9 +22,9 @@ Explore datasets that cover [[europe.base|Europe]] as a whole
 - [[netherlands.base|The Netherlands]]
 
 ## Datasets and tools dealing with geography
-- [[atlas-of-mutual-heritage|The Atlas of Mutual Heritage]]
+- [[Atlas of Mutual Heritage|The Atlas of Mutual Heritage]]
 - [[Index to the De Haan map collection]]
 - [[Places in the VOC Archives]]
 - [[Necessary Reunions dataset]]
-- [[capasia-atlas|The CapAsia Atlas]]
-- [[necessary-reunions|The Necessary Reunions project]]
+- [[CapAsia Factory Atlas|The CapAsia Atlas]]
+- [[Necessary Reunions|The Necessary Reunions project]]

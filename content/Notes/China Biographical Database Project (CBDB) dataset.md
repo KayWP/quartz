@@ -17,4 +17,4 @@ format: SQL
 license: CC-BY-SA-NC 4.0
 url: https://doi.org/10.34894/O8QZVG
 ---
-A biographical database that covers over half a million individuals from Chinese history. It can be explored as an [[china-biographical-database|online interface]]. 
+A biographical database that covers over half a million individuals from Chinese history. It can be explored as an [[China Biographical Database (CBDB)|online interface]]. 

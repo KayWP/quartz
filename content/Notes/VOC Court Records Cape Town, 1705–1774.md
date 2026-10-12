@@ -18,4 +18,4 @@ format: Excel
 license: CC BY-SA 4.0
 url: https://doi.org/10.34894/V7IZI0
 ---
-The dataset 'VOC Court Records Cape Town, 1705-1774' was created as part of the project 'Resilient Diversity'. However, it appears that the dataset in its entirety was included in [[early-modern-colonial-court-records]].
+The dataset 'VOC Court Records Cape Town, 1705-1774' was created as part of the project 'Resilient Diversity'. However, it appears that the dataset in its entirety was included in [[Early Modern Dutch Colonial Court Records]].

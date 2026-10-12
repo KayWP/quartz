@@ -15,3 +15,5 @@ This site lists together data, datasets, and tools related to the VOC (Verenigde
 
 ### 📖 Topic
 [[Topic Index|Explore the data and tools by topic]], such as histories of enslavement or historical population overviews.
+
+An overview of other good repositories of data and tools can be found at [[More lists of data]].

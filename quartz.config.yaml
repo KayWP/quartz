@@ -232,6 +232,7 @@ plugins:
       links:
         By Kay Pepping: https://www.linkedin.com/in/kaypepping/
         (Github): https://github.com/KayWP
+        Contact Us: mailto:info@vocdata.nl
     layout:
       position: footer
       priority: 50
@@ -240,7 +241,7 @@ plugins:
     options: 
       title: "Recent updates"
       limit: 2
-      
+
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -265,6 +266,8 @@ plugins:
         - full-title
         - category
         - contributors
+        - author
+        - authors
         - geo
         - period
         - license
